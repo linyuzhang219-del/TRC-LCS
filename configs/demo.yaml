@@ -1,0 +1,9 @@
+# Reference values used by the bundled synthetic demo.
+visual_topk: 20
+task_topk: 20
+budget: 3
+min_temporal_gap: 30
+task_memory_threshold: 0.20
+high_score_threshold: 0.55
+low_score_threshold: 0.25
+camera: [520.0, 520.0, 320.0, 240.0]

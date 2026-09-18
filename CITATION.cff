@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If TRC-LCS is useful in your research, please cite the software release."
+title: "TRC-LCS: Task-Relation Conditioned Loop Closure Scheduling"
+type: software
+authors:
+  - name: "TRC-LCS Contributors"
+version: 0.1.0
+date-released: 2026-09-17
+license: MIT
+abstract: "A modular toolkit for task-conditioned loop-closure candidate generation, scheduling, and geometric verification in SLAM."

@@ -39,7 +39,7 @@ dev = [
 trc-lcs = "trc_lcs.cli:main"
 
 [tool.setuptools.packages.find]
-include = ["trc_lcs*"]
+include = ["trc_lcs*", "tools*"]
 
 [tool.pytest.ini_options]
 addopts = "-q"
